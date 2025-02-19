@@ -4,11 +4,16 @@
     grid-template-columns: repeat(10, 1fr);
     column-gap: 10px;
 }
-.Tstack svg
+.Tstack img
 {
-    transition: ease ,2s;
+    background-color: whitesmoke;
+    padding: 5px;
+    border-radius: 5px;
+    transition: ease .2s;
+    height: 1fr;
+    width: 1fr;
 }
-.Tstack svg:hover
+.Tstack img:hover
 {
     transform: scale(1.2);
     transition: ease ,2s;

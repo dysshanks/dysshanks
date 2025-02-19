@@ -16,6 +16,18 @@
 </ul>
 
 <div class="techstack">
+<style>
+  .Tstack
+  {
+    display: grid;
+    grid-template-columns: repeat(10, 1fr)
+  }
+  .Tstack img
+  {
+    margin: 5px;
+  }
+  
+</style>
   <h2 id="stack"><a href="#list">Tech stack</a></h2>
 <h3 id="SL"><a href="#list">Languages</a></h3>
 <div class="Tstack" id="Tstack">

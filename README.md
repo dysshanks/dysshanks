@@ -16,41 +16,30 @@
 </ul>
 
 <div class="techstack">
-<style>
-  .Tstack
-  {
-    display: grid;
-    grid-template-columns: repeat(10, 1fr)
-  }
-  .Tstack img
-  {
-    margin: 5px;
-  }
-  
-</style>
   <h2 id="stack"><a href="#list">Tech stack</a></h2>
 <h3 id="SL"><a href="#list">Languages</a></h3>
 <div class="Tstack" id="Tstack">
 <!--   <img src="tech_stack/languages" alt=""> -->
-  <img src="img/tech_stack/languages/html5-brands.svg" alt="html">
-  <img src="img/tech_stack/languages/css-brands.svg" alt="css">
-  <img src="img/tech_stack/languages/php-brands.svg" alt="php">
-  <img src="img/tech_stack/languages/js-brands.svg" alt="js">
-  <img src="img/tech_stack/languages/typescript-svgrepo-com.svg" alt="ts">
-  <img src="img/tech_stack/languages/python-brands.svg" alt="python">
-  <img src="img/tech_stack/languages/icons8-c-sharp-logo.svg" alt="c#">
+  <img src="img/tech_stack/languages/html5-brands.svg" alt="html" width="50" height="50"> 
+  <img src="img/tech_stack/languages/css-brands.svg" alt="css"width="50" height="50">
+  <img src="img/tech_stack/languages/php-brands.svg" alt="php"width="50" height="50">
+  <img src="img/tech_stack/languages/js-brands.svg" alt="js"width="50" height="50">
+  <img src="img/tech_stack/languages/typescript-svgrepo-com.svg" alt="ts"width="50" height="50">
+  <img src="img/tech_stack/languages/python-brands.svg" alt="python"width="50" height="50">
+  <img src="img/tech_stack/languages/icons8-c-sharp-logo.svg" alt="c#"width="50" height="50">
 </div>
 <h3 id="tools"><a href="#list">Tools</a></h3>
 <div class="Tstack" id="Tstack">
 <!--  <img src="img/tech_stack/tools/" alt=""> -->
-  <img src="img/tech_stack/tools/git-alt-brands.svg" alt="git">
-  <img src="img/tech_stack/tools/github-brands.svg" alt="github">
-  <img src="img/tech_stack/tools/font-awesome-brands.svg" alt="font-awsome">
-  <img src="img/tech_stack/tools/laravel-brands.svg" alt="laravel">
+  <img src="img/tech_stack/tools/git-alt-brands.svg" alt="git"width="50" height="50">
+  <img src="img/tech_stack/tools/github-brands.svg" alt="github"width="50" height="50">
+  <img src="img/tech_stack/tools/font-awesome-brands.svg" alt="font-awsome"width="50" height="50">
+  <img src="img/tech_stack/tools/laravel-brands.svg" alt="laravel"width="50" height="50">
 </div>
 <h3 id="sys"><a href="#list">Systems</a></h3>
 <div class="Tstack">
-  <img src="img/tech_stack/sys/windows-brands.svg" alt="windows">
-  <img src="img/tech_stack/sys/linux-brands.svg" alt="linux">
+  <img src="img/tech_stack/sys/windows-brands.svg" alt="windows"width="50" height="50">
+  <img src="img/tech_stack/sys/linux-brands.svg" alt="linux"width="50" height="50">
 </div>
 </div>
+

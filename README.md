@@ -7,3 +7,7 @@
   <h3><a href="#stack">tech stack</a></h3>
 </ul>
 
+<ul>
+  ### <a href="#home">home</a>
+  ### <a href="#stack">tech stack</a>
+</ul>

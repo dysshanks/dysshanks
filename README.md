@@ -3,7 +3,5 @@
 
 ## table of contents
 <ul>
-  <li>
-    [home](/#home)
-  </li>
+  <li><a href="#home">home</a></li>
 </ul>

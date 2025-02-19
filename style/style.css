@@ -1,0 +1,15 @@
+.Tstack
+{
+    display: grid;
+    grid-template-columns: repeat(10, 1fr);
+    column-gap: 10px;
+}
+.Tstack svg
+{
+    transition: ease ,2s;
+}
+.Tstack svg:hover
+{
+    transform: scale(1.2);
+    transition: ease ,2s;
+}

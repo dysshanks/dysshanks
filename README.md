@@ -1,4 +1,4 @@
-![Header](Header.png)
+![Header](img/Header.png)
 <h1 id="home">👋 im a dutch programmer.</h1>
 
 <h2>table of contents</h2>
@@ -6,3 +6,5 @@
   <li><a href="#home">home</a></li>
   <li><a href="#stack">tech stack</a></li>
 </ul>
+
+<h2>tech stack</h2>

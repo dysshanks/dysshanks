@@ -4,6 +4,6 @@
 ## table of contents
 <ul>
   <li>
-    [home](#home)
+    [home](/#home)
   </li>
 </ul>

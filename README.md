@@ -3,7 +3,7 @@
 
 <h2>table of contents</h2>
 <ul>
-  <li><a href="#home">home</a></li>
-    <li><a href="#stack">tech stack</a></li>
+  <h3><a href="#home">home</a></h3>
+  <h3><a href="#stack">tech stack</a></h3>
 </ul>
 

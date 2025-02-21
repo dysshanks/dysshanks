@@ -17,6 +17,10 @@
   </ul>
   <li><a href="#proj">projects</a></li>
   <li><a href="#misc">misc</a></li>
+  <ul>
+    <li><a href="#cred">Credits</a></li>
+    <li><a href="#sup">Support me</a></li>
+  </ul>
 </ul>
 
 <div class="about">
@@ -43,30 +47,16 @@
 <h3 id="SL"><a href="#list">Languages</a></h3>
 <div class="Tstack" id="Tstack">
 <!--   <img src="tech_stack/languages" alt=""> -->
-  <img src="https://skillicons.dev/icons?i=html">
-  <img src="https://skillicons.dev/icons?i=css">
-  <img src="https://skillicons.dev/icons?i=php">
-  <img src="https://skillicons.dev/icons?i=js">
-  <img src="https://skillicons.dev/icons?i=ts">
-  <img src="https://skillicons.dev/icons?i=python">
-  <img src="https://skillicons.dev/icons?i=cs">
-  <img src="https://skillicons.dev/icons?i=mysql">
-  <img src="https://skillicons.dev/icons?i=md">
-  <img src="https://skillicons.dev/icons?i=bash">
+  <img src="https://skillicons.dev/icons?i=html,css,php,js,ts,py,cs,mysql,md,bash">
 </div>
 <h3 id="tools"><a href="#list">Tools</a></h3>
 <div class="Tstack" id="Tstack">
 <!--  <img src="img/tech_stack/tools/" alt=""> -->
-  <img src="https://skillicons.dev/icons?i=git">
-  <img src="https://skillicons.dev/icons?i=github">
-  <img src="https://skillicons.dev/icons?i=laravel">
-  <img src="https://skillicons.dev/icons?i=figma">
-  <img src="https://skillicons.dev/icons?i=unity">
+  <img src="https://skillicons.dev/icons?i=git,github,laravel,figma,unity">
 </div>
 <h3 id="sys"><a href="#list">Systems</a></h3>
 <div class="Tstack">
-  <img src="https://skillicons.dev/icons?i=windows">
-  <img src="https://skillicons.dev/icons?i=linux">
+  <img src="https://skillicons.dev/icons?i=windows,linux">
 </div>
 </div>
 
@@ -76,6 +66,20 @@
 
 <div class="misc">
   <h2 id="misc"><a href="#list">Misc</a></h2>
+  <h3 id="cred"><a href="#list">Credits</a></h3>
+  <h4>Credit to</h4>
+  <ul>
+    <li>tandpfun - for the icons <a href="https://github.com/tandpfun/skill-icons#readme">here</a></li>
+    <li>anuraghazra - for the stats images <a href="https://github.com/anuraghazra/github-readme-stats">here</a></li>
+    <li>aceist - for the inspiration <a href="https://github.com/Aceistt">here</a></li>
+  </ul>
+  <h3 id="sup"><a href="#list">Support me</a></h3>
+  <h4>You can suport me by</h4>
+  <ul>
+    <li>Starring anny repository of mine</li>
+    <li>Following me on social media</li>
+  </ul>
 </div>
 
+![footer](img/footer.png)
 <!-- end -->

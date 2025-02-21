@@ -23,6 +23,8 @@
   </ul>
 </ul>
 
+#
+
 <div class="about">
   <h2 id="about"><a href="#list">😊 About me</a></h2>
   <h3 id="me"><a href="#list">🎧 Myself</a></h3>
@@ -41,6 +43,8 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dysshanks&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="dysshanks's GitHub Stats" width="100%">
     <img src="https://streak-stats.demolab.com?user=dysshanks&theme=radical&hide_border=true" alt="dysshanks's GitHub Stats" width="100%">
 </div>
+
+#
 
 <div class="techstack">
   <h2 id="stack"><a href="#list">💻 Tech stack</a></h2>
@@ -63,6 +67,8 @@
 <div class="projects">
   <h2 id="proj"><a href="#list">🚀 Projects</a></h2>
 </div>
+
+#
 
 <div class="misc">
   <h2 id="misc"><a href="#list">📌 Misc</a></h2>

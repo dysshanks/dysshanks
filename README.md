@@ -79,6 +79,7 @@
   <ul>
     <li>tandpfun - for the icons <a href="https://github.com/tandpfun/skill-icons#readme">here</a></li>
     <li>anuraghazra - for the stats images <a href="https://github.com/anuraghazra/github-readme-stats">here</a></li>
+    <li>gbraad - for the buy me a coffee img <a href="https://gist.github.com/gbraad/216f8162d9b382d14b8a097a37cc2c72">here</a></li>
     <li>aceist - for the inspiration <a href="https://github.com/Aceistt">here</a></li>
   </ul>
   <h3 id="sup"><a href="#list">❤️ Support me</a></h3>
@@ -87,6 +88,10 @@
     <li>Starring anny repository of mine</li>
     <li>Following me on social media</li>
   </ul>
+  <h4>if you realy wana support me you can buy me a coffee</h4>
+  <a href="https://www.buymeacoffee.com/dysshanks"><img 
+  src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee"></a>
+
 </div>
 
 #

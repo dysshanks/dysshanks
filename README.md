@@ -89,7 +89,7 @@
     <li>Following me on social media</li>
   </ul>
   <h4>if you realy wana support me you can buy me a coffee</h4>
-  <a href="https://www.buymeacoffee.com/dysshanks"><img 
+  <a href="buymeacoffee.com/dysshanks"><img 
   src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee"></a>
 
 </div>
